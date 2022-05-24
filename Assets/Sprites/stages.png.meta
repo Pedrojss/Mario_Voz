@@ -1,0 +1,5952 @@
+fileFormatVersion: 2
+guid: 7e8bbb4beb58ab740954f05f58b282c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8209574510664110158
+    second: stages_0
+  - first:
+      213: -3830384001301917815
+    second: stages_1
+  - first:
+      213: 8341413745054951715
+    second: stages_2
+  - first:
+      213: 5078605169829762896
+    second: stages_3
+  - first:
+      213: 622324514095285020
+    second: stages_4
+  - first:
+      213: -5954830398679520601
+    second: stages_5
+  - first:
+      213: 450611400993004597
+    second: stages_6
+  - first:
+      213: 8785704263522729410
+    second: stages_7
+  - first:
+      213: -1010080622232898762
+    second: stages_8
+  - first:
+      213: 6184571246415573914
+    second: stages_9
+  - first:
+      213: 5439930200714976986
+    second: stages_10
+  - first:
+      213: 427686095229142092
+    second: stages_11
+  - first:
+      213: -6489382636665283757
+    second: stages_12
+  - first:
+      213: 7375645724659999578
+    second: stages_13
+  - first:
+      213: -930187009191572841
+    second: stages_14
+  - first:
+      213: -7243266621529308332
+    second: stages_15
+  - first:
+      213: 7618808654736115007
+    second: stages_16
+  - first:
+      213: -6388956468295930765
+    second: stages_17
+  - first:
+      213: -4867448132593849162
+    second: stages_18
+  - first:
+      213: 5899485776806345667
+    second: stages_19
+  - first:
+      213: -4590471687964765380
+    second: stages_20
+  - first:
+      213: -4986719634190096502
+    second: stages_21
+  - first:
+      213: 7464868134419406079
+    second: stages_22
+  - first:
+      213: 7007372960984084978
+    second: stages_23
+  - first:
+      213: 8786691315688277088
+    second: stages_24
+  - first:
+      213: -4554909884127237594
+    second: stages_25
+  - first:
+      213: -2445133634134163432
+    second: stages_26
+  - first:
+      213: 7180630659549914977
+    second: stages_27
+  - first:
+      213: 1096584779527998946
+    second: stages_28
+  - first:
+      213: 9096244593176007798
+    second: stages_29
+  - first:
+      213: -8161283430087340366
+    second: stages_30
+  - first:
+      213: -4473698955373687317
+    second: stages_31
+  - first:
+      213: 8024503959916788146
+    second: stages_32
+  - first:
+      213: 1573506902856349503
+    second: stages_33
+  - first:
+      213: -2237171376196415025
+    second: stages_34
+  - first:
+      213: 6864979606274762697
+    second: stages_35
+  - first:
+      213: 8807510027175083787
+    second: stages_36
+  - first:
+      213: 7301812701961497374
+    second: stages_37
+  - first:
+      213: 1231903886984326822
+    second: stages_38
+  - first:
+      213: -8469243190217214831
+    second: stages_39
+  - first:
+      213: 5936089461145545073
+    second: stages_40
+  - first:
+      213: -5837763381337461861
+    second: stages_41
+  - first:
+      213: 1462777639356062831
+    second: stages_42
+  - first:
+      213: -2639500977842980074
+    second: stages_43
+  - first:
+      213: 3376566966735486665
+    second: stages_44
+  - first:
+      213: 8619663261195255367
+    second: stages_45
+  - first:
+      213: 1232806073937032099
+    second: stages_46
+  - first:
+      213: -4629075666131246764
+    second: stages_47
+  - first:
+      213: -3866475094456696378
+    second: stages_48
+  - first:
+      213: -4390285813966029040
+    second: stages_49
+  - first:
+      213: 1567102726055896074
+    second: stages_50
+  - first:
+      213: 8757357948053891253
+    second: stages_51
+  - first:
+      213: -760319561202404524
+    second: stages_52
+  - first:
+      213: 9107954506503510226
+    second: stages_53
+  - first:
+      213: -7038510055155628153
+    second: stages_54
+  - first:
+      213: 5094002906749642084
+    second: stages_55
+  - first:
+      213: 4264065452681580722
+    second: stages_56
+  - first:
+      213: 738320254876181070
+    second: stages_57
+  - first:
+      213: -6461595004366671682
+    second: stages_58
+  - first:
+      213: 7391570870176089596
+    second: stages_59
+  - first:
+      213: 24327946568276286
+    second: stages_60
+  - first:
+      213: 4801270146032753908
+    second: stages_61
+  - first:
+      213: -9096913330128937201
+    second: stages_62
+  - first:
+      213: 3311102191711426671
+    second: stages_63
+  - first:
+      213: -5712186715388782101
+    second: stages_64
+  - first:
+      213: -8024467691249911299
+    second: stages_65
+  - first:
+      213: -8578124122809242002
+    second: stages_66
+  - first:
+      213: -6726802520787187213
+    second: stages_67
+  - first:
+      213: -4281284549227829934
+    second: stages_68
+  - first:
+      213: -6766418908675091487
+    second: stages_69
+  - first:
+      213: -234670689561561243
+    second: stages_70
+  - first:
+      213: -5730186047504839145
+    second: stages_71
+  - first:
+      213: 7933991487875360415
+    second: stages_72
+  - first:
+      213: 5830580424513637476
+    second: stages_73
+  - first:
+      213: 7053598245086629080
+    second: stages_74
+  - first:
+      213: 8051663369566272633
+    second: stages_75
+  - first:
+      213: 5714913051999342971
+    second: stages_76
+  - first:
+      213: 769174384986551497
+    second: stages_77
+  - first:
+      213: 6823976787057199390
+    second: stages_78
+  - first:
+      213: 8083127852787418588
+    second: stages_79
+  - first:
+      213: 7778247230603095303
+    second: stages_80
+  - first:
+      213: -4974168800859867972
+    second: stages_81
+  - first:
+      213: -5820976992933756100
+    second: stages_82
+  - first:
+      213: -7330847670189792843
+    second: stages_83
+  - first:
+      213: -6202006482836558519
+    second: stages_84
+  - first:
+      213: 1683151729959240780
+    second: stages_85
+  - first:
+      213: 8576915479882718809
+    second: stages_86
+  - first:
+      213: 1727694518633039941
+    second: stages_87
+  - first:
+      213: 8201698033639138161
+    second: stages_88
+  - first:
+      213: 4600856642255863191
+    second: stages_89
+  - first:
+      213: 1716344687159437707
+    second: stages_90
+  - first:
+      213: 8737128921766317733
+    second: stages_91
+  - first:
+      213: -2128224719267301622
+    second: stages_92
+  - first:
+      213: 5215972040041506921
+    second: stages_93
+  - first:
+      213: 1930506171675061222
+    second: stages_94
+  - first:
+      213: 7794232058403107281
+    second: stages_95
+  - first:
+      213: -7027913291466287504
+    second: stages_96
+  - first:
+      213: -6328345639902474374
+    second: stages_97
+  - first:
+      213: 8945249610633628347
+    second: stages_98
+  - first:
+      213: 1868712715099496121
+    second: stages_99
+  - first:
+      213: -2749376368688561278
+    second: stages_100
+  - first:
+      213: 5240561290830050060
+    second: stages_101
+  - first:
+      213: 8547973940671195619
+    second: stages_102
+  - first:
+      213: 4880518375738423856
+    second: stages_103
+  - first:
+      213: 546203764307779312
+    second: stages_104
+  - first:
+      213: 1956383631183437431
+    second: stages_105
+  - first:
+      213: -2447138169040144876
+    second: stages_106
+  - first:
+      213: 4258107049835924481
+    second: stages_107
+  - first:
+      213: -8165516835820618101
+    second: stages_108
+  - first:
+      213: 7294561130754003524
+    second: stages_109
+  - first:
+      213: 3819933214938213791
+    second: stages_110
+  - first:
+      213: 2826164251119129662
+    second: stages_111
+  - first:
+      213: 136562827665809004
+    second: stages_112
+  - first:
+      213: -3940280430683224190
+    second: stages_113
+  - first:
+      213: 1730241107533180239
+    second: stages_114
+  - first:
+      213: -3814324664227563490
+    second: stages_115
+  - first:
+      213: 8881512255508632834
+    second: stages_116
+  - first:
+      213: 4682617648739648333
+    second: stages_117
+  - first:
+      213: 4379176563288667699
+    second: stages_118
+  - first:
+      213: 1361744142973166131
+    second: stages_119
+  - first:
+      213: -2030582547510545225
+    second: stages_120
+  - first:
+      213: 8194632626639770731
+    second: stages_121
+  - first:
+      213: -4592443570952544477
+    second: stages_122
+  - first:
+      213: -5115031304701961186
+    second: stages_123
+  - first:
+      213: -5773678346332541265
+    second: stages_124
+  - first:
+      213: -3296563229363833447
+    second: stages_125
+  - first:
+      213: -6542667731487192069
+    second: stages_126
+  - first:
+      213: -7548627338935575742
+    second: stages_127
+  - first:
+      213: -5641578466219623638
+    second: stages_128
+  - first:
+      213: 4613469719577632267
+    second: stages_129
+  - first:
+      213: 7835984073787843182
+    second: stages_130
+  - first:
+      213: -163864853297849165
+    second: stages_131
+  - first:
+      213: 6497004503397199028
+    second: stages_132
+  - first:
+      213: 4825879733443102788
+    second: stages_133
+  - first:
+      213: 3232559650472311103
+    second: stages_134
+  - first:
+      213: -2482500242748350393
+    second: stages_135
+  - first:
+      213: -4840940373218367960
+    second: stages_136
+  - first:
+      213: -7523962254969102218
+    second: stages_137
+  - first:
+      213: 7490651086413074545
+    second: stages_138
+  - first:
+      213: -8173173012498037784
+    second: stages_139
+  - first:
+      213: 2899686897210902596
+    second: stages_140
+  - first:
+      213: -4885496876599534902
+    second: stages_141
+  - first:
+      213: -7713344963071445330
+    second: stages_142
+  - first:
+      213: -6562873387646067792
+    second: stages_143
+  - first:
+      213: -5928031772175385776
+    second: stages_144
+  - first:
+      213: -78187055206300015
+    second: stages_145
+  - first:
+      213: 8713406035417033197
+    second: stages_146
+  - first:
+      213: 900877738742816087
+    second: stages_147
+  - first:
+      213: 5215015836276173988
+    second: stages_148
+  - first:
+      213: -6363349539967057243
+    second: stages_149
+  - first:
+      213: 191901423805784966
+    second: stages_150
+  - first:
+      213: 5407306932600929972
+    second: stages_151
+  - first:
+      213: 2768640419230169600
+    second: stages_152
+  - first:
+      213: 345152063160105533
+    second: stages_153
+  - first:
+      213: -4515623897464858969
+    second: stages_154
+  - first:
+      213: -3928266805106142207
+    second: stages_155
+  - first:
+      213: -5908766695328205459
+    second: stages_156
+  - first:
+      213: -7304480251902447684
+    second: stages_157
+  - first:
+      213: 7253476502575005243
+    second: stages_158
+  - first:
+      213: -3259313849319330029
+    second: stages_159
+  - first:
+      213: -6482292294784873692
+    second: stages_160
+  - first:
+      213: -7862624920525599492
+    second: stages_161
+  - first:
+      213: 6033633331058436401
+    second: stages_162
+  - first:
+      213: 252221610791847248
+    second: stages_163
+  - first:
+      213: -3638309272110142781
+    second: stages_164
+  - first:
+      213: 7418227197902119242
+    second: stages_165
+  - first:
+      213: -6039290240823259718
+    second: stages_166
+  - first:
+      213: 7967482518877874673
+    second: stages_167
+  - first:
+      213: -2932468629905104265
+    second: stages_168
+  - first:
+      213: -742649504090739514
+    second: stages_169
+  - first:
+      213: 6284538555070462006
+    second: stages_170
+  - first:
+      213: -1638933597353189037
+    second: stages_171
+  - first:
+      213: 6567302350115595263
+    second: stages_172
+  - first:
+      213: -8587542964517816653
+    second: stages_173
+  - first:
+      213: -6714810837710594094
+    second: stages_174
+  - first:
+      213: 46007124084288448
+    second: stages_175
+  - first:
+      213: 5727129167033690840
+    second: stages_176
+  - first:
+      213: 549945850165339523
+    second: stages_177
+  - first:
+      213: 3918912583092312005
+    second: stages_178
+  - first:
+      213: 7785037406031066432
+    second: stages_179
+  - first:
+      213: -4618419014280759395
+    second: stages_180
+  - first:
+      213: -3070056226161305598
+    second: stages_181
+  - first:
+      213: 2888233707265828592
+    second: stages_182
+  - first:
+      213: 6878178225223588625
+    second: stages_183
+  - first:
+      213: -4460852238433542450
+    second: stages_184
+  - first:
+      213: 7817268756949082465
+    second: stages_185
+  - first:
+      213: -5496520600571157949
+    second: stages_186
+  - first:
+      213: 1932228277478370652
+    second: stages_187
+  - first:
+      213: -5313629888147347436
+    second: stages_188
+  - first:
+      213: -4036404625390734770
+    second: stages_189
+  - first:
+      213: -5576814923284225392
+    second: stages_190
+  - first:
+      213: 2437315071212141818
+    second: stages_191
+  - first:
+      213: -2395489704821162402
+    second: stages_192
+  - first:
+      213: 2545726508380181962
+    second: stages_193
+  - first:
+      213: -2631887080065124680
+    second: stages_194
+  - first:
+      213: -1110858897322623753
+    second: stages_195
+  - first:
+      213: -4398666981155179107
+    second: stages_196
+  - first:
+      213: 183858931092857619
+    second: stages_197
+  - first:
+      213: 4706521600578703651
+    second: stages_198
+  - first:
+      213: 1298771960741969704
+    second: stages_199
+  - first:
+      213: -3889957527352885130
+    second: stages_200
+  - first:
+      213: -8689392313991840066
+    second: stages_201
+  - first:
+      213: -8676564911739008730
+    second: stages_202
+  - first:
+      213: -7134539589229368548
+    second: stages_203
+  - first:
+      213: 8887423041048074558
+    second: stages_204
+  - first:
+      213: 25480825128073916
+    second: stages_205
+  - first:
+      213: 990484282921519209
+    second: stages_206
+  - first:
+      213: -5062659457517230578
+    second: stages_207
+  - first:
+      213: 6824821128692656259
+    second: stages_208
+  - first:
+      213: 8568799346356532523
+    second: stages_209
+  - first:
+      213: 8113024034351047401
+    second: stages_210
+  - first:
+      213: 877981072125156963
+    second: stages_211
+  - first:
+      213: -6091470570884885675
+    second: stages_212
+  - first:
+      213: 7417826376173633211
+    second: stages_213
+  - first:
+      213: 7528175609186967227
+    second: stages_214
+  - first:
+      213: 948356276660647266
+    second: stages_215
+  - first:
+      213: -3297334366134614923
+    second: stages_216
+  - first:
+      213: 2815963512630979777
+    second: stages_217
+  - first:
+      213: 8949822993568580583
+    second: stages_218
+  - first:
+      213: -100389370856905258
+    second: stages_219
+  - first:
+      213: 1760060931857418834
+    second: stages_220
+  - first:
+      213: 1491553444643093376
+    second: stages_221
+  - first:
+      213: 2170608543096887285
+    second: stages_222
+  - first:
+      213: 6668591242331875975
+    second: stages_223
+  - first:
+      213: 1644568363403863936
+    second: stages_224
+  - first:
+      213: 2334402508239000521
+    second: stages_225
+  - first:
+      213: -5358818569686602276
+    second: stages_226
+  - first:
+      213: -3103981570015561709
+    second: stages_227
+  - first:
+      213: -1448929419496873016
+    second: stages_228
+  - first:
+      213: 3931362085033996710
+    second: stages_229
+  - first:
+      213: -673510467613754130
+    second: stages_230
+  - first:
+      213: 8534718323456203007
+    second: stages_231
+  - first:
+      213: 5680820214935100415
+    second: stages_232
+  - first:
+      213: -8935807429538394317
+    second: stages_233
+  - first:
+      213: -2752962290457031350
+    second: stages_234
+  - first:
+      213: -6117446460909479591
+    second: stages_235
+  - first:
+      213: -6281921133783465506
+    second: stages_236
+  - first:
+      213: 1983723330868709900
+    second: stages_237
+  - first:
+      213: -907069663904498771
+    second: stages_238
+  - first:
+      213: -1848944706098975756
+    second: stages_239
+  - first:
+      213: 8095971110459992626
+    second: stages_240
+  - first:
+      213: -3959817916263528420
+    second: stages_241
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stages_0
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1068
+        width: 248
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfa3ce8a7bb11e80800000000000000
+      internalID: -8209574510664110158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1500
+        width: 173
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f4f098b0eb7dac0800000000000000
+      internalID: -3830384001301917815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1509
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329af8e3b97a2c370800000000000000
+      internalID: 8341413745054951715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1509
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0575a2e8e74da7640800000000000000
+      internalID: 5078605169829762896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_4
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1510
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13caad29d0f2a800800000000000000
+      internalID: 622324514095285020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1510
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa620d6d413c5da0800000000000000
+      internalID: -5954830398679520601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_6
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1597
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cdde78ea4e04600800000000000000
+      internalID: 450611400993004597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd38e0aa771de970800000000000000
+      internalID: 8785704263522729410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6337d4596097bf1f0800000000000000
+      internalID: -1010080622232898762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93f1b608c204d550800000000000000
+      internalID: 6184571246415573914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade198012b38e7b40800000000000000
+      internalID: 5439930200714976986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1553
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44c185dc327fe500800000000000000
+      internalID: 427686095229142092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1553
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b5af9cfd411f5a0800000000000000
+      internalID: -6489382636665283757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_13
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53ec7f65be8b5660800000000000000
+      internalID: 7375645724659999578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 122
+        width: 283
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a047ee7df4713f0800000000000000
+      internalID: -930187009191572841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4534d4a526fba7b90800000000000000
+      internalID: -7243266621529308332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35c735fa127bb960800000000000000
+      internalID: 7618808654736115007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c69c531fdd557a0800000000000000
+      internalID: -6388956468295930765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1697
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcea1656b9537cb0800000000000000
+      internalID: -4867448132593849162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1697
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbf204ae0f2fd150800000000000000
+      internalID: 5899485776806345667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1697
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c335f57325e5b40c0800000000000000
+      internalID: -4590471687964765380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1697
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8722a9d9ec9bcab0800000000000000
+      internalID: -4986719634190096502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1697
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc9337840a889760800000000000000
+      internalID: 7464868134419406079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1697
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f13224d4903f3160800000000000000
+      internalID: 7007372960984084978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1697
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0640c9e923990f970800000000000000
+      internalID: 8786691315688277088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1697
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a2ea4e795b9c0c0800000000000000
+      internalID: -4554909884127237594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1694
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810c2152ae3211ed0800000000000000
+      internalID: -2445133634134163432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1697
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16760cd4a89b6a360800000000000000
+      internalID: 7180630659549914977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1697
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edcdd90c0ad73f00800000000000000
+      internalID: 1096584779527998946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1697
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674d256734a5c3e70800000000000000
+      internalID: 9096244593176007798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_30
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1694
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2becc5ee5fb4dbe80800000000000000
+      internalID: -8161283430087340366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_31
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1694
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed4ae4b08a3ae1c0800000000000000
+      internalID: -4473698955373687317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1694
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b93e8df5d3cc5f60800000000000000
+      internalID: 8024503959916788146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1694
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37b06cf03836d510800000000000000
+      internalID: 1573506902856349503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_34
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1694
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc114248c78f3f0e0800000000000000
+      internalID: -2237171376196415025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_35
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1691
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7ee46649e454f50800000000000000
+      internalID: 6864979606274762697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_36
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1694
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f367d94bf8a3a70800000000000000
+      internalID: 8807510027175083787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_37
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1691
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ba9dc37ff355560800000000000000
+      internalID: 7301812701961497374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_38
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1691
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeaf1dee0a981110800000000000000
+      internalID: 1231903886984326822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_39
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1691
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194f4b2c034377a80800000000000000
+      internalID: -8469243190217214831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_40
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1691
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17925860ae9316250800000000000000
+      internalID: 5936089461145545073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_41
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1691
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9be89c62291cfea0800000000000000
+      internalID: -5837763381337461861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_42
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1691
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cd33b4384dc4410800000000000000
+      internalID: 1462777639356062831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_43
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1691
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b7f5768db9e5bd0800000000000000
+      internalID: -2639500977842980074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_44
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1691
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce369434c9fbde20800000000000000
+      internalID: 3376566966735486665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_45
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1691
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e370f21123f9770800000000000000
+      internalID: 8619663261195255367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_46
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1691
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3f5f1b79ecb1110800000000000000
+      internalID: 1232806073937032099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_47
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1688
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451a7d1253832cfb0800000000000000
+      internalID: -4629075666131246764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1312
+        width: 311
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c183061365875ac0800000000000000
+      internalID: -3866475094456696378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_49
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1251
+        width: 312
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f3e1c10529213c0800000000000000
+      internalID: -4390285813966029040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_50
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1462
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04ab1160a77fb510800000000000000
+      internalID: 1567102726055896074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_51
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1462
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b822b0c7a2688970800000000000000
+      internalID: 8757357948053891253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_52
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1459
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453ffbe236dc275f0800000000000000
+      internalID: -760319561202404524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_53
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1462
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d85f8e1e54f56e70800000000000000
+      internalID: 9107954506503510226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_54
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1462
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7870f6e7560325e90800000000000000
+      internalID: -7038510055155628153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_55
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1462
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465ae9d87a881b640800000000000000
+      internalID: 5094002906749642084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_56
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1462
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0d91eefe00d2b30800000000000000
+      internalID: 4264065452681580722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_57
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1459
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42ee5a2c5a0f3a00800000000000000
+      internalID: 738320254876181070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1462
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0394a149dc356a0800000000000000
+      internalID: -6461595004366671682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_59
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1462
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf588f05b82249660800000000000000
+      internalID: 7391570870176089596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1462
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e391155732e665000800000000000000
+      internalID: 24327946568276286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_61
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1312
+        width: 269
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc58f472c981a240800000000000000
+      internalID: 4801270146032753908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_62
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 889
+        width: 328
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f1625168541c180800000000000000
+      internalID: -9096913330128937201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1291
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f681aff76e563fd20800000000000000
+      internalID: 3311102191711426671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_64
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1291
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9db82627c3ab0b0800000000000000
+      internalID: -5712186715388782101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_65
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1291
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df93377762d53a090800000000000000
+      internalID: -8024467691249911299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_66
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1291
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6eeeb42f8164f880800000000000000
+      internalID: -8578124122809242002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_67
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1291
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9074a5fb895a2a0800000000000000
+      internalID: -6726802520787187213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_68
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1288
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25528ecb262d594c0800000000000000
+      internalID: -4281284549227829934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_69
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1288
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e35fe24ad9d812a0800000000000000
+      internalID: -6766418908675091487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_70
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1288
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567bc7d40484ebcf0800000000000000
+      internalID: -234670689561561243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_71
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1288
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e039d462a4a70b0800000000000000
+      internalID: -5730186047504839145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_72
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1288
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96a8cdd8333b1e60800000000000000
+      internalID: 7933991487875360415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_73
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1288
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c4b7d11026ae050800000000000000
+      internalID: 5830580424513637476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_74
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1288
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc05ba7b3a63e160800000000000000
+      internalID: 7053598245086629080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_75
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1288
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cb502dc214dbf60800000000000000
+      internalID: 8051663369566272633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_76
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1288
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b711aa254237f4f40800000000000000
+      internalID: 5714913051999342971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_77
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1104
+        width: 179
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4f3732708acaa00800000000000000
+      internalID: 769174384986551497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_78
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1236
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e194e0c9bb2a3be50800000000000000
+      internalID: 6823976787057199390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_79
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1233
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5c573b4f90d2070800000000000000
+      internalID: 8083127852787418588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_80
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1236
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d634335a2e1fb60800000000000000
+      internalID: 7778247230603095303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_81
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1236
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4bae374d338fab0800000000000000
+      internalID: -4974168800859867972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_82
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1150
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33467a044cb73fa0800000000000000
+      internalID: -5820976992933756100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_83
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1088
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b166db62e8934a90800000000000000
+      internalID: -7330847670189792843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_84
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1088
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d6bd7a6fb0ee9a0800000000000000
+      internalID: -6202006482836558519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_85
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1088
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c440e47a491cb5710800000000000000
+      internalID: 1683151729959240780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_86
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1088
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e55febf23570770800000000000000
+      internalID: 8576915479882718809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_87
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1088
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548038fc2010af710800000000000000
+      internalID: 1727694518633039941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_88
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1088
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173a41a38e842d170800000000000000
+      internalID: 8201698033639138161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_89
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1088
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d38206db689df30800000000000000
+      internalID: 4600856642255863191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_90
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1088
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89644e366ea1d710800000000000000
+      internalID: 1716344687159437707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_91
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1088
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae4caa8674804970800000000000000
+      internalID: 8737128921766317733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_92
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1088
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07fdd5c4e60772e0800000000000000
+      internalID: -2128224719267301622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_93
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1088
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9682b0d5fead26840800000000000000
+      internalID: 5215972040041506921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_94
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1088
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb246782298aca10800000000000000
+      internalID: 1930506171675061222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_95
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1085
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d13412f2ccaa2c60800000000000000
+      internalID: 7794232058403107281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_96
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 824
+        width: 121
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076d7edc816d77e90800000000000000
+      internalID: -7027913291466287504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_97
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 891
+        width: 370
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f88b56b233d28a0800000000000000
+      internalID: -6328345639902474374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_98
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1046
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbac40d7029e32c70800000000000000
+      internalID: 8945249610633628347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_99
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1046
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bed2c240500fe910800000000000000
+      internalID: 1868712715099496121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_100
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1046
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283077e62c048d9d0800000000000000
+      internalID: -2749376368688561278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_101
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1046
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0376937ab63ab840800000000000000
+      internalID: 5240561290830050060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_102
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1046
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9a00b820180a670800000000000000
+      internalID: 8547973940671195619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_103
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1046
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ab7a9ca951bb340800000000000000
+      internalID: 4880518375738423856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_104
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1046
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fedb820e61849700800000000000000
+      internalID: 546203764307779312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_105
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1046
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ed3151c88762b10800000000000000
+      internalID: 1956383631183437431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_106
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1046
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416ff0efcc40a0ed0800000000000000
+      internalID: -2447138169040144876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_107
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1046
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c8e092dc5d71b30800000000000000
+      internalID: 4258107049835924481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_108
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1046
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eb07953b14eae80800000000000000
+      internalID: -8165516835820618101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_109
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1046
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442d6fe33bc7b3560800000000000000
+      internalID: 7294561130754003524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_110
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1046
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dab162501230530800000000000000
+      internalID: 3819933214938213791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_111
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1046
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e341dd8a96d883720800000000000000
+      internalID: 2826164251119129662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_112
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1046
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e1b801b2b25e100800000000000000
+      internalID: 136562827665809004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_113
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1046
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28704b523df4159c0800000000000000
+      internalID: -3940280430683224190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_114
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1046
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d2b4ebe1d030810800000000000000
+      internalID: 1730241107533180239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_115
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1046
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1874b25debc01bc0800000000000000
+      internalID: -3814324664227563490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_116
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1046
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205ded11758714b70800000000000000
+      internalID: 8881512255508632834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_117
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1046
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d430a1421fffbf040800000000000000
+      internalID: 4682617648739648333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_118
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1046
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3367987e1e5f5cc30800000000000000
+      internalID: 4379176563288667699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_119
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1043
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33262ec4513e5e210800000000000000
+      internalID: 1361744142973166131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_120
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1046
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4b6887eebe1d3e0800000000000000
+      internalID: -2030582547510545225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_121
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1046
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6490b7f4fe29b170800000000000000
+      internalID: 8194632626639770731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_122
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 876
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fd85e67ec5440c0800000000000000
+      internalID: -4592443570952544477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_123
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c9c340122c309b0800000000000000
+      internalID: -5115031304701961186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_124
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeeb7f5226cfdfa0800000000000000
+      internalID: -5773678346332541265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_125
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 873
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995772675314042d0800000000000000
+      internalID: -3296563229363833447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_126
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 876
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb8b4ddc56c335a0800000000000000
+      internalID: -6542667731487192069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_127
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 819
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b51f8fd63ed3790800000000000000
+      internalID: -7548627338935575742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_128
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 819
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b7c7c764615b1b0800000000000000
+      internalID: -5641578466219623638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_129
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 819
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e12794446560040800000000000000
+      internalID: 4613469719577632267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_130
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 673
+        width: 353
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e622ebf8ff10fbc60800000000000000
+      internalID: 7835984073787843182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_131
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 433
+        width: 349
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc920cb8c5d9bdf0800000000000000
+      internalID: -163864853297849165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_132
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 809
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc6a195c2ff92a50800000000000000
+      internalID: 6497004503397199028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_133
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 809
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44802a88c08f8f240800000000000000
+      internalID: 4825879733443102788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_134
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 806
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39b9a110eb5cdc20800000000000000
+      internalID: 3232559650472311103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_135
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 425
+        width: 352
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740e92c9e236c8dd0800000000000000
+      internalID: -2482500242748350393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_136
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 657
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826e873016681dcb0800000000000000
+      internalID: -4840940373218367960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_137
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 657
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670ae195134859790800000000000000
+      internalID: -7523962254969102218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_138
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 657
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1709b06d97324f760800000000000000
+      internalID: 7490651086413074545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_139
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 654
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3ce3ec27e039e80800000000000000
+      internalID: -8173173012498037784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_140
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 657
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4484c1caed1cd3820800000000000000
+      internalID: 2899686897210902596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_141
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 653
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca1107a97a333cb0800000000000000
+      internalID: -4885496876599534902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_142
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 653
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6f3168f91b4f490800000000000000
+      internalID: -7713344963071445330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_143
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 653
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbdd7fec6dfbe4a0800000000000000
+      internalID: -6562873387646067792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_144
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 583
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bb142e2866bbda0800000000000000
+      internalID: -5928031772175385776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_145
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 582
+        width: 125
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196056c99493aeef0800000000000000
+      internalID: -78187055206300015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_146
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 631
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9e6c4af9c3ce870800000000000000
+      internalID: 8713406035417033197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_147
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 628
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d92d3c78f808c00800000000000000
+      internalID: 900877738742816087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_148
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 631
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac2743d5457f5840800000000000000
+      internalID: 5215015836276173988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_149
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 628
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a24e90de47d0b7a0800000000000000
+      internalID: -6363349539967057243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_150
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 582
+        width: 165
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683e5d50455c9a200800000000000000
+      internalID: 191901423805784966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_151
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 564
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be7f2d810d9a0b40800000000000000
+      internalID: 5407306932600929972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_152
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 564
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ab00bdacf2c6620800000000000000
+      internalID: 2768640419230169600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_153
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 564
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ab62609f93ac400800000000000000
+      internalID: 345152063160105533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_154
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 564
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a697547df74551c0800000000000000
+      internalID: -4515623897464858969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_155
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 564
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10490b2572efb79c0800000000000000
+      internalID: -3928266805106142207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_156
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 564
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65bd402ff7dffda0800000000000000
+      internalID: -5908766695328205459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_157
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 564
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfaf7469e541aa90800000000000000
+      internalID: -7304480251902447684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_158
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 426
+        width: 323
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e30a2d27689a460800000000000000
+      internalID: 7253476502575005243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_159
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 416
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f6fc7925794c2d0800000000000000
+      internalID: -3259313849319330029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_160
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b8817a0854a06a0800000000000000
+      internalID: -6482292294784873692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_161
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 416
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc00f1fa4852e290800000000000000
+      internalID: -7862624920525599492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_162
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 416
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139e1ba0c85cbb350800000000000000
+      internalID: 6033633331058436401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_163
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 416
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055ccebf732108300800000000000000
+      internalID: 252221610791847248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_164
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 416
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca6ddc5ef0228dc0800000000000000
+      internalID: -3638309272110142781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_165
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 416
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41e8124556d2f660800000000000000
+      internalID: 7418227197902119242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_166
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 416
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd0f340681203ca0800000000000000
+      internalID: -6039290240823259718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_167
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 416
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9a9db232f229e60800000000000000
+      internalID: 7967482518877874673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_168
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 416
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772a7876157cd47d0800000000000000
+      internalID: -2932468629905104265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_169
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 416
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc2d04f53491b5f0800000000000000
+      internalID: -742649504090739514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_170
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 410
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638b838d48a273750800000000000000
+      internalID: 6284538555070462006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_171
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 410
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3516f4f93965149e0800000000000000
+      internalID: -1638933597353189037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_172
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 410
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff36a3f31beb32b50800000000000000
+      internalID: 6567302350115595263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_173
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 410
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6b28a2c2be2d880800000000000000
+      internalID: -8587542964517816653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_174
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 410
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df1154ae1330d2a0800000000000000
+      internalID: -6714810837710594094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_175
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 410
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb6e205c3373a000800000000000000
+      internalID: 46007124084288448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_176
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 410
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da62df32a9da7f40800000000000000
+      internalID: 5727129167033690840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_177
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 410
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3852ec446dcc1a700800000000000000
+      internalID: 549945850165339523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_178
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 410
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c796052b36c26630800000000000000
+      internalID: 3918912583092312005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_179
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 410
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0453c9d16420a0c60800000000000000
+      internalID: 7785037406031066432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_180
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 410
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97b2ed306418efb0800000000000000
+      internalID: -4618419014280759395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_181
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 410
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208dd2fc028f465d0800000000000000
+      internalID: -3070056226161305598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_182
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 404
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6a3e51141151820800000000000000
+      internalID: 2888233707265828592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_183
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 404
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b574857a2347f50800000000000000
+      internalID: 6878178225223588625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_184
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 404
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece99a4168ed712c0800000000000000
+      internalID: -4460852238433542450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_185
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 404
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161a5bb44848c7c60800000000000000
+      internalID: 7817268756949082465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_186
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 404
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342e656b2af68b3b0800000000000000
+      internalID: -5496520600571157949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_187
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 407
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d20188167a0da10800000000000000
+      internalID: 1932228277478370652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_188
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 407
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418241105c13246b0800000000000000
+      internalID: -5313629888147347436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_189
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 407
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4277d5016fcbf7c0800000000000000
+      internalID: -4036404625390734770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_190
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 407
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092eb8fdf5c2b92b0800000000000000
+      internalID: -5576814923284225392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_191
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 410
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc3e41d42513d120800000000000000
+      internalID: 2437315071212141818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_192
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 410
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e77092ec281ced0800000000000000
+      internalID: -2395489704821162402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_193
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 410
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5db4385cc345320800000000000000
+      internalID: 2545726508380181962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_194
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 410
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b637cf15a8a97bd0800000000000000
+      internalID: -2631887080065124680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_195
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 410
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcb08de7bf6590f0800000000000000
+      internalID: -1110858897322623753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_196
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 410
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95710f8fabc4f2c0800000000000000
+      internalID: -4398666981155179107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_197
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 410
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313a29449b23d8200800000000000000
+      internalID: 183858931092857619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_198
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 410
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3215232a57ce05140800000000000000
+      internalID: 4706521600578703651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_199
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 410
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f3344973a260210800000000000000
+      internalID: 1298771960741969704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_200
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 410
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67046ce1d38140ac0800000000000000
+      internalID: -3889957527352885130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_201
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 410
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeb1829ab3196780800000000000000
+      internalID: -8689392313991840066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_202
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 410
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6298d25ee26a69780800000000000000
+      internalID: -8676564911739008730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_203
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 349
+        width: 91
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ba5044b060dfc90800000000000000
+      internalID: -7134539589229368548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_204
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 404
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39da421b28765b70800000000000000
+      internalID: 8887423041048074558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_205
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 404
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbab75aeca68a5000800000000000000
+      internalID: 25480825128073916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_206
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 404
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968052f1538eebd00800000000000000
+      internalID: 990484282921519209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_207
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 404
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06e9e7eb02ddb9b0800000000000000
+      internalID: -5062659457517230578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_208
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 404
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3886e4738a2a6be50800000000000000
+      internalID: 6824821128692656259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_209
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 348
+        width: 372
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b253e272b9d7ae670800000000000000
+      internalID: 8568799346356532523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_210
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 269
+        width: 213
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e263b5ef50479070800000000000000
+      internalID: 8113024034351047401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_211
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 275
+        width: 107
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e598322273f2c00800000000000000
+      internalID: 877981072125156963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_212
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 84
+        width: 339
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55319ae2acfb67ba0800000000000000
+      internalID: -6091470570884885675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_213
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 326
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe3a5da9c961f660800000000000000
+      internalID: 7417826376173633211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_214
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 326
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe5950a4d3797860800000000000000
+      internalID: 7528175609186967227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_215
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 326
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265bede420d392d00800000000000000
+      internalID: 948356276660647266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_216
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 326
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574cbd03dd38d32d0800000000000000
+      internalID: -3297334366134614923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_217
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 326
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cca4d625ef441720800000000000000
+      internalID: 2815963512630979777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_218
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 206
+        width: 329
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3474e2898243c70800000000000000
+      internalID: 8949822993568580583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_219
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 294
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d569da26685b9ef0800000000000000
+      internalID: -100389370856905258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_220
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 294
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a8762a71efc6810800000000000000
+      internalID: 1760060931857418834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_221
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 294
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b367f84ff03b410800000000000000
+      internalID: 1491553444643093376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_222
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 294
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7d7b538fc8f1e10800000000000000
+      internalID: 2170608543096887285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_223
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 206
+        width: 109
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ae87737689b8c50800000000000000
+      internalID: 6668591242331875975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_224
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 160
+        width: 218
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0876885963ea2d610800000000000000
+      internalID: 1644568363403863936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_225
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 186
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3dd5a86b6756020800000000000000
+      internalID: 2334402508239000521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_226
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 186
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd201237e6a1a5b0800000000000000
+      internalID: -5358818569686602276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_227
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 186
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318fcd925317ce4d0800000000000000
+      internalID: -3103981570015561709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_228
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 186
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3a646ae5e54ebe0800000000000000
+      internalID: -1448929419496873016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_229
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 186
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1f3e1bcf00f8630800000000000000
+      internalID: 3931362085033996710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_230
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 180
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecff515cc537a6f0800000000000000
+      internalID: -673510467613754130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_231
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 180
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8df97a819617670800000000000000
+      internalID: 8534718323456203007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_232
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 180
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb901023e356de40800000000000000
+      internalID: 5680820214935100415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_233
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 180
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f411d9c72adf380800000000000000
+      internalID: -8935807429538394317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_234
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 180
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d4345f1638bc9d0800000000000000
+      internalID: -2752962290457031350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_235
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 180
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959150dfad67a1ba0800000000000000
+      internalID: -6117446460909479591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_236
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 177
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed141d9030222d8a0800000000000000
+      internalID: -6281921133783465506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_237
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 180
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a8515fbd9978b10800000000000000
+      internalID: 1983723330868709900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_238
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 180
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab707052f07963f0800000000000000
+      internalID: -907069663904498771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_239
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 177
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fba1aff59a3756e0800000000000000
+      internalID: -1848944706098975756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_240
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 122
+        width: 261
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aeac6a4daaa5070800000000000000
+      internalID: 8095971110459992626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_241
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 5
+        width: 265
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1882edc596eb09c0800000000000000
+      internalID: -3959817916263528420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
