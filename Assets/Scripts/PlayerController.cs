@@ -49,6 +49,7 @@ public class PlayerController : MonoBehaviour
 
         if(Horizontal < 0.0f && facingRight) FlipPlayer();
         if(Horizontal > 0.0f && !facingRight) FlipPlayer();
+        if(feetPos.position.y < -5.0f) death = true;
 
         if(death){
             Speed = 0;
@@ -79,6 +80,12 @@ public class PlayerController : MonoBehaviour
         if (collision.gameObject.CompareTag("Brick"))
         {
             Rigidbody2D.velocity = Vector2.down * 5;
+        }
+
+        if (collision.gameObject.CompareTag("Flag"))
+        {
+            Speed = 0;
+            Jumpforce = 0;
         }
     }
 

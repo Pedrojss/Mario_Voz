@@ -7,6 +7,7 @@ TagManager:
   - Brick
   - Enemigo
   - Tube
+  - Flag
   layers:
   - Default
   - TransparentFX
